@@ -1,0 +1,11 @@
+
+main.js
+----------------
+require.config.js
+main.js
+component/jquery/jquery.js
+component/jquery.cookie/jquery.cookie.js
+component/jquery.lazyload/jquery.lazyload.js
+component/jquery.stellar/jquery.stellar.js
+component/jquery.uniform/jquery.uniform.js
+app.js
